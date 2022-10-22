@@ -3,7 +3,7 @@
 //  Colors with Navigation
 //
 //  Created by Muhammad Fahmi on 21/10/22.
-//
+//  Segue berikutnya menampilkan warna
 
 import UIKit
 
