@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  Colors with Navigation
 //
-//  Created by Brian Lasker on 7/11/18.
-//  Copyright © 2018 Brian Lasker. All rights reserved.
+//  Created by Muhammad Fahmi on 21/10/22.
 //
 
 import UIKit
