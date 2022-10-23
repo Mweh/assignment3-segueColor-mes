@@ -44,11 +44,13 @@ class ColorsTableViewController: UIViewController, UITableViewDelegate, UITableV
     
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        if let destination = segue.destination as? ColorDetailViewController,
+        if let destination = segue.destination as? ColorsQuestionViewController,
             let row = colorsTableView.indexPathForSelectedRow?.row{
-            destination.color = colors[row]
-            destination.colorsUi = uiColors[row]
+            destination.color1 = colors[row]
+            destination.colorsUi1 = uiColors[row]
         }
     }
+    
+    
     
 }

@@ -13,6 +13,7 @@
 		9B1BE08720F6D22400967793 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B1BE08520F6D22400967793 /* LaunchScreen.storyboard */; };
 		9B1BE08F20F6D23A00967793 /* ColorsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1BE08E20F6D23A00967793 /* ColorsTableViewController.swift */; };
 		9B1BE09120F6D74600967793 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1BE09020F6D74600967793 /* ColorDetailViewController.swift */; };
+		CDB61C03290456B900AA3119 /* ColorsQuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB61C02290456B900AA3119 /* ColorsQuestionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9B1BE08820F6D22400967793 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9B1BE08E20F6D23A00967793 /* ColorsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsTableViewController.swift; sourceTree = "<group>"; };
 		9B1BE09020F6D74600967793 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
+		CDB61C02290456B900AA3119 /* ColorsQuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsQuestionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				9B1BE08520F6D22400967793 /* LaunchScreen.storyboard */,
 				9B1BE08820F6D22400967793 /* Info.plist */,
 				9B1BE08E20F6D23A00967793 /* ColorsTableViewController.swift */,
+				CDB61C02290456B900AA3119 /* ColorsQuestionViewController.swift */,
 				9B1BE09020F6D74600967793 /* ColorDetailViewController.swift */,
 			);
 			path = "Colors with Navigation";
@@ -140,6 +143,7 @@
 			files = (
 				9B1BE09120F6D74600967793 /* ColorDetailViewController.swift in Sources */,
 				9B1BE07D20F6D22400967793 /* AppDelegate.swift in Sources */,
+				CDB61C03290456B900AA3119 /* ColorsQuestionViewController.swift in Sources */,
 				9B1BE08F20F6D23A00967793 /* ColorsTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
